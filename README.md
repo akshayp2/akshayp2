@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay.....
 - 👀 I’m interested in java and javascript
 - 🌱 I’m currently learning web devolopment
-- 💞️ I’m looking for internship in web development
+- 💞️ I’m looking for Full time Job in web development
 - 📫 How to reach me.
 - https://www.linkedin.com/in/akshay-patil-161356191/
 
