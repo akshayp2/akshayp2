@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay.....
-- 👀 I’m interested in java and javascript
-- 🌱 I’m currently learning web devolopment
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development with React
 - 💞️ I’m looking for Full time Job in web development
 - 📫 How to reach me.
 - https://www.linkedin.com/in/akshay-patil-161356191/
